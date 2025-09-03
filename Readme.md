@@ -1,7 +1,7 @@
 # Project Title
 
 ## Description
-A short paragraph explaining what the project is and what it does.
+A short paragraph explaining what
 
 ## Requirements
 - PHP installed (8.2+ or whatever version you’re using)
