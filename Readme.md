@@ -1,7 +1,7 @@
 # Project Title
 
 ## Description
-A short paragraph explaining what hi
+A small slots game in the php console.
 
 ## Requirements
 - PHP installed (8.2+ or whatever version you’re using)
@@ -17,6 +17,6 @@ A short paragraph explaining what hi
 [markleyclassroom](https://github.com/MarkleyClassroom/phplessonChapter2)
 
 ## Screenshot of homepage
-![alt](url)
+![alt](slots_game.png)
 ## Markdown Cheat Sheet
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/)
